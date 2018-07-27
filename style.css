@@ -1,0 +1,28 @@
+/*!
+ * Tugas Uas Rafly Umarsyah Iska
+ * Copyright 2018 @ www.brbs.my.id
+ * Nim : 3221603006
+ * Source : - http://aice.co.id
+ *			- http://materializecss.com
+ */
+
+body { 
+background-color:#000;
+color:#fff;
+}	
+svg{
+  width:100%;
+}
+.boximg {
+	height:200 px;
+	width: 350 px;
+}
+.KS_KetikTeks, #KS_KetikTeks {
+  font-size: 19px;
+}
+h2 {
+	color:red;
+
+}
+
+
